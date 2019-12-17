@@ -43,7 +43,7 @@ the Git Security mailing list <git-security@googlegroups.com>.
 
 The maintainer frequently sends the "What's cooking" reports that
 list the current status of various development topics to the mailing
-list.  The discussion following them give a good reference for
+list.  The discussion following them give a good reference for 
 project status, development direction and remaining tasks.
 
 The name "git" was given by Linus Torvalds when he wrote the very
@@ -59,7 +59,7 @@ and the name as (depending on your mood):
    works for you. Angels sing, and a light suddenly fills the room.
  - "goddamn idiotic truckload of sh*t": when it breaks
 
-[INSTALL]: INSTALL
+[INSTALL]: INSTALL 
 [Documentation/gittutorial.txt]: Documentation/gittutorial.txt
 [Documentation/giteveryday.txt]: Documentation/giteveryday.txt
 [Documentation/gitcvs-migration.txt]: Documentation/gitcvs-migration.txt
